@@ -1,0 +1,27 @@
+{
+  "item": {
+    "name": "《马力欧＆路易吉RPG 兄弟齐航》风格表盘",
+    "description": "于腕上重温马力欧与路易吉的冒险",
+    "preview": ["preview0.png","preview1.png","preview2.png","preview3.png"],
+    "icon": "icon.png",
+    "source_url": "",
+    "author": [{
+      "name": "hrsthrt74",
+      "author_url": "https://www.bandbbs.cn/members/296762/"
+    }]
+  },
+  "downloads": {
+    "n67": {
+      "version": "v2.0",
+      "file_name": "《马力欧＆路易吉RPG 兄弟齐航》风格表盘+ v2.0 for Band9Pro by hrsthrt74.bin"
+    },
+    "o65": {
+      "version": "v2.0",
+      "file_name": "《马力欧＆路易吉RPG 兄弟齐航》风格表盘+ v2.0 for RW5 by hrsthrt74.bin"
+    },
+    "o65m": {
+      "version": "v2.0",
+      "file_name": "《马力欧＆路易吉RPG 兄弟齐航》风格表盘+ v2.0 for RW5 by hrsthrt74.bin"
+    }
+  }
+}
