@@ -1,5 +1,7 @@
 {
   "item": {
+    "id": "989808740100",
+    "restype": "watchface",
     "name": "《马力欧＆路易吉RPG 兄弟齐航》风格表盘 +",
     "description": "于腕上重温马力欧与路易吉的冒险",
     "preview": [
@@ -9,30 +11,43 @@
       "preview3.png"
     ],
     "icon": "icon.png",
-    "source_url": "",
+    "cover": "cover.png",
     "author": [
       {
         "name": "hrsthrt74",
-        "author_url": "https://www.bandbbs.cn/members/296762/"
+        "bindABAccount": true
       }
     ]
   },
+  "links": [
+    {
+      "icon": "chats-circle",
+      "title": "交流群",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=g6XligIthhyyHK3vdtJERLTHuHcL6FA18DTvcoHFtgBdZ4F3IyuLPtM%2FVoFF9euZ&busi_data=eyJncm91cENvZGUiOiI2MDg4MTE0MDciLCJ0b2tlbiI6ImYrdW1JYnhDU3BxUk1QSnVWdFVjQW9VbUN4dmdnam5MT05XK1gwVHNVUVVEd3J1U1ltNUY5bnphK3Bud0Q0MEgiLCJ1aW4iOiIxOTMwMDA5NjEifQ%3D%3D&data=GeoMiGtLNaqPTer1fWNZqL5-4PXgigAMUJWTgD-AYmWOMTqTd6eCT_PX2aqATThqF-9KaXVPULmjwDyUkSzqKw&svctype=4&tempid=h5_group_info"
+    },
+    {
+      "icon": "hand-heart",
+      "title": "支持我",
+      "url": "https://afdian.com/a/hrsthrt74"
+    }
+  ],
   "downloads": {
-    "n67": {
+    "xmb9p": {
       "version": "v2.0",
       "file_name": "《马力欧＆路易吉RPG 兄弟齐航》风格表盘+ for Band9Pro v2.0 by hrsthrt74.bin"
     },
-    "o65": {
+    "xmrw5": {
       "version": "v2.0",
       "file_name": "《马力欧＆路易吉RPG 兄弟齐航》风格表盘+ for RW5 v2.0 by hrsthrt74.bin"
     },
-    "o65m": {
+    "xmrw5xring": {
       "version": "v2.0",
       "file_name": "《马力欧＆路易吉RPG 兄弟齐航》风格表盘+ for RW5 v2.0 by hrsthrt74.bin"
     },
-    "p65": {
+    "xmrw6": {
       "version": "v2.0",
       "file_name": "《马力欧＆路易吉RPG 兄弟齐航》风格表盘+ for RW5 v2.0 by hrsthrt74.bin"
     }
-  }
+  },
+  "ext": {}
 }
